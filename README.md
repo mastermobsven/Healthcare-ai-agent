@@ -2,7 +2,7 @@
 
 A comprehensive full-stack healthcare application that leverages AI-powered voice interactions for patient triage, symptom analysis, specialist mapping, and appointment booking. Built with modern technologies including FastAPI, PostgreSQL, React, and integrated with leading AI models.
 
----
+----------
 
 ## 🔄 System Architecture & User Flow
 
