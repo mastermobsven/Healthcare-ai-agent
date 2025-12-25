@@ -246,7 +246,7 @@ CREATE USER fastapi_user WITH PASSWORD 'your_secure_password';
 GRANT ALL PRIVILEGES ON DATABASE healthcare TO fastapi_user;
 \q
 ```
-
+/////////
 #### Initialize Schema and Functions
 ```bash
 psql -U fastapi_user -d healthcare -f sql/schema.sql
